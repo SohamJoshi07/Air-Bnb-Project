@@ -90,7 +90,7 @@ The dataset contains **20,765 entries and 22 features**, including:
 
 ## How to Run This Project
 1. Clone the repository:
-   ```bash
+   ```https://github.com/SohamJoshi07/Air-Bnb-Project bash
    git clone 
    ```
 2. Install the required libraries:
